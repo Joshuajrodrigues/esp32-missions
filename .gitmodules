@@ -1,0 +1,6 @@
+[submodule "mercury"]
+	path = mercury
+	url = https://github.com/Joshuajrodrigues/mercury
+[submodule "gemini"]
+	path = gemini
+	url = https://github.com/Joshuajrodrigues/gemini
